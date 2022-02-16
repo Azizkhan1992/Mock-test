@@ -1,0 +1,5 @@
+import './axios'
+import './moment'
+import './vuetify'
+import './fontawesome'
+import './bootstrap'
